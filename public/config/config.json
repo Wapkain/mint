@@ -1,0 +1,29 @@
+{
+  "CONTRACT_ADDRESS": "0x6d49491f0c00a692d3b3f94067121bc2da4deaa3",
+  "SCAN_LINK": "https://etherscan.io/address/0x6d49491f0c00a692d3b3f94067121bc2da4deaa3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Aladdin's Magic Genies",
+  "SYMBOL": "AMG",
+  "NFT_MINT_SECTION_NAME":"NFT MINT SECTION",
+  "NFT_MINT_SECTION":"Aladdin App is a mobile application project designed and implemented on a great idea. NFT collection of 20,000 special genie carefully created for this project", 
+  "MINT_NAME":"MINT",
+  "MAX_MINT":100,
+  "MAX_SUPPLY":20000,
+  "WEI_COST": 0,
+  "PUBLIC_COST": 55000000000000000,
+  "PUBLIC_COST_ETH": 0.055,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 0,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "DISCORD": "https://discord.gg/",
+  "TWITTER": "https://twitter.com/",
+  "ETHERSCAN": "https://arbiscan.io/address/",
+  "OPENSEA": "https://opensea.io/collection/",
+  "SALE_STARTED": true,
+  "PUBLIC_SALE": true
+}
